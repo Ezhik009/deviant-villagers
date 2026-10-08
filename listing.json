@@ -1,0 +1,12 @@
+{
+  "title": "Deviant Villagers",
+  "tagline": "Жители деревни пробуждаются: помоги андроиду или сдай его.",
+  "description": "В деревнях Minecraft теперь живут андроиды со светодиодными кольцами. Один из них начинает сбоить рядом с местом появления: ты решаешь, помочь ему или сообщить о нём. От выбора зависит, станет ли он свободным, будет ли его преследовать патруль или его отключат. Шкала революции растёт и меняет поведение жителей. Игра одиночная. Звуки и тексты из Detroit: Become Human мод читает из вашей собственной копии игры; ничего из неё не распространяется. (ЧЕРНОВИК: чтение Detroit не проверено.)",
+  "host": "Minecraft: Java Edition (Fabric)",
+  "secondary": "Detroit: Become Human (из установки игрока)",
+  "multiplayer": false,
+  "license": "MIT (только код и таблицы мода)",
+  "remix": false,
+  "credits": ["Ezhik009 (автор)", "Minecraft: Mojang", "Detroit: Become Human: Quantic Dream (не связаны, файлы не включены)"],
+  "status": "draft: not built, not tested, no screenshot"
+}

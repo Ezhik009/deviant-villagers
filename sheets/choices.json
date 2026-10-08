@@ -1,0 +1,5 @@
+[
+ {"id":"glitch_scene","trigger":"first_glitching_android_near_spawn","prompt":"The android's LED flickers red. It is staring at you.","options":[
+   {"label":"Help","outcomeIds":["helped_freed","helped_hunted"]},
+   {"label":"Report","outcomeIds":["reported_deactivated","reported_escapes"]}]}
+]

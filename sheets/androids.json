@@ -1,0 +1,6 @@
+[
+ {"id":"android_farmer","baseProfession":"minecraft:farmer","ledIdle":"blue","ledStress":"yellow","ledDeviant":"red","spawnWeight":3,"canDeviate":true},
+ {"id":"android_librarian","baseProfession":"minecraft:librarian","ledIdle":"blue","ledStress":"yellow","ledDeviant":"red","spawnWeight":2,"canDeviate":true},
+ {"id":"android_cleric","baseProfession":"minecraft:cleric","ledIdle":"blue","ledStress":"yellow","ledDeviant":"red","spawnWeight":1,"canDeviate":true},
+ {"id":"android_unemployed","baseProfession":"minecraft:none","ledIdle":"blue","ledStress":"yellow","ledDeviant":"red","spawnWeight":2,"canDeviate":false}
+]

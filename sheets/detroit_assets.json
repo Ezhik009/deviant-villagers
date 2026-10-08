@@ -1,0 +1,12 @@
+[
+ {"id":"snd_deviation","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"snd_alarm","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"snd_shutdown","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"snd_ambient_calm","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"snd_ambient_tense","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"snd_uprising","kind":"sound","relativePath":null,"format":null,"verified":false},
+ {"id":"txt_freed","kind":"text","relativePath":null,"format":null,"verified":false},
+ {"id":"txt_hunted","kind":"text","relativePath":null,"format":null,"verified":false},
+ {"id":"txt_deactivated","kind":"text","relativePath":null,"format":null,"verified":false},
+ {"id":"txt_escaped","kind":"text","relativePath":null,"format":null,"verified":false}
+]

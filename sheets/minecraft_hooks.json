@@ -1,0 +1,6 @@
+[
+ {"id":"hook_villager_spawn","purpose":"mark villagers as androids on spawn","fabricApi":null,"verified":false},
+ {"id":"hook_led_render","purpose":"draw LED ring on android villagers","fabricApi":null,"verified":false},
+ {"id":"hook_interact","purpose":"open help/report choice on use","fabricApi":null,"verified":false},
+ {"id":"hook_play_sound","purpose":"play Detroit audio decoded from player's install","fabricApi":null,"verified":false}
+]

@@ -1,0 +1,6 @@
+[
+ {"id":"helped_freed","description":"The android is free and becomes a follower.","revolutionDelta":2,"resultingState":"free_follower","detroitSoundRef":"snd_deviation","detroitTextRef":"txt_freed"},
+ {"id":"helped_hunted","description":"Freed, but patrol golems start hunting it.","revolutionDelta":1,"resultingState":"hunted","detroitSoundRef":"snd_alarm","detroitTextRef":"txt_hunted"},
+ {"id":"reported_deactivated","description":"The android is shut down and removed.","revolutionDelta":-1,"resultingState":"deactivated","detroitSoundRef":"snd_shutdown","detroitTextRef":"txt_deactivated"},
+ {"id":"reported_escapes","description":"It escapes anyway and returns hostile later.","revolutionDelta":-1,"resultingState":"hostile_later","detroitSoundRef":"snd_alarm","detroitTextRef":"txt_escaped"}
+]

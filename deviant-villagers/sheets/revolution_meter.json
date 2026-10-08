@@ -1,0 +1,5 @@
+[
+ {"id":"stage_0","minValue":-99,"label":"Obedient","effect":"villagers behave normally","detroitSoundRef":"snd_ambient_calm"},
+ {"id":"stage_1","minValue":3,"label":"Unrest","effect":"more androids glitch","detroitSoundRef":"snd_ambient_tense"},
+ {"id":"stage_2","minValue":6,"label":"Uprising","effect":"free androids defend the village","detroitSoundRef":"snd_uprising"}
+]

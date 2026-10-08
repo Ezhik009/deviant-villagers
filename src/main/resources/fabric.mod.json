@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "deviant_villagers",
+  "version": "0.1.0",
+  "name": "Deviant Villagers",
+  "description": "Android villagers inspired by Detroit: Become Human, reading the player's own Detroit install.",
+  "environment": "client",
+  "entrypoints": {"main": ["gg.melty.deviant.DeviantVillagers"]},
+  "depends": {"fabricloader": "*", "minecraft": "TODO_VERSION", "fabric-api": "*"}
+}
